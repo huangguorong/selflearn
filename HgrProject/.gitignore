@@ -1,6 +1,7 @@
 *.iml
 *.xml
 *.swo
+*.swp
 .gradle
 /local.properties
 /.idea/workspace.xml
